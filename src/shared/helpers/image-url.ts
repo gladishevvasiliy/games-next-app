@@ -1,0 +1,1 @@
+export const imageUrl = (id: string) => `https://d2norla3tyc4cn.cloudfront.net/i/s3/${id}.webp`
